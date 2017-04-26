@@ -7,7 +7,7 @@
 <tspan x="10" y="74">└─┬ simplecrawler@1.1.1 </tspan>
 <tspan x="10" y="90">  ├─┬ async@2.3.0 </tspan>
 <tspan x="10" y="106">  │ └── lodash@4.17.4 </tspan>
-<tspan x="10" y="122">  ├── iconv-lite@0.4.15 </tspan>
+<tspan x="10" y="122">  ├── iconv-lite@0.4.16 </tspan>
 <tspan x="10" y="138">  ├── robots-parser@1.0.1 </tspan>
 <tspan x="10" y="154">  └── urijs@1.18.10</tspan>
 </text>
